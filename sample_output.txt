@@ -1,0 +1,5 @@
+Sep  9 14:52:06 sysadmin-host systemd[1]: Condition check resulted in Process error reports when automatic reporting is enabled (file watch) being skipped.
+Sep  9 14:52:06 sysadmin-host systemd[1]: Condition check resulted in Process error reports when automatic reporting is enabled (timer based) being skipped.
+Sep  9 14:52:06 sysadmin-host systemd[1]: Started Download data for packages that failed at package install time.
+Sep  9 14:52:06 sysadmin-host systemd[1]: Starting GRUB failed boot detection...
+Sep  9 14:52:06 sysadmin-host systemd[1]: Finished GRUB failed boot detection.
